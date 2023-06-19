@@ -1,0 +1,80 @@
+MARK MCDANIELS 
+Greenville, SC H: 681-443-0573 | mcdaniels.mark@gmail.com 
+
+ 
+09/2022 to 11/2022 
+	
+
+NSA CAE Cybersecurity Intern 
+NSA in partnership with Maryland Innovation & Security Institute (MISI) & GBC MISI Academy – Remote 
+ 
+
+Managed security alerts with the NIST Cybersecurity Model, and MITRE ATT&CK framework. Used SIEM tools Splunk and Elastic to monitor real time events. Responsible for evaluating and analyzing logs. Investigated alerts for severity to resolve or escalate. Researched processes, and root cause analysis to determine actionable activities. Wrote and implemented incident reports that summarized events and provided remediation recommendations, including SIEM rules when it applied.  
+Participated in four Cyberbit cyber range simulations of real-world attacks recreated in an enterprise level network. Tasked with identifying intrusions, investigating the extent of the attack, and creating a plan of action. Charged with quarantining all infected machines and removing areas of persistence. Generated Palo Alto Firewall rules to block attackers. Eliminated permissions in Active Directory, and other remediations, as necessary. Wrote incident reports of the attack in an executive summary. 
+Other responsibilities were analyzing Phishing emails, vulnerability scanning, and malware analysis. 
+
+ 
+
+Volunteering and Projects 
+Cloud Computing B.S. Capstone is an integration proposal of Microsoft 365, Azure AD Connect, and Microsoft Intune. A small company was forced to adopt an ad-hoc mobile strategy with BYOD devices, and Active Directory Domain Services at the beginning of the 2020 pandemic. They needed a modern strategy that implemented user and device management that was cost effective, secure, and the least disruptive to their business. 
+
+ Capstone Proposal Paper: https://github.com/MarkMcDaniels/DOCS/blob/main/task3mm3.docx 
+
+ 
+
+ 
+
+02/2023 to Present 
+Volunteer Developer  
+
+BlackMUD － Greenville, SC 
+Creating an updated website for BlackMUD, one of the longest running MUDs in the world. Designed and created the art assets. Fully functioning responsive design.  
+Backend integration of statistics, and information to the new front-end website. 
+
+ 
+
+REPO: https://github.com/MarkMcDaniels/blackmud-site-rebuild/tree/main 
+
+ 
+
+ 
+
+03/2019 to 06/2021 
+Volunteer Developer  
+
+Code For Greenville － Greenville, SC 
+Created custom pagination script for Track the Trolley's schedule modal. 
+I built a geojson validation script for OpenData's map layers with python, and Geocodio.io's API. The script retrieved coordinates for local businesses and used them to confirm they were in the Greenville area.  
+
+ 
+
+Certifications and Skills 
+    Security+  
+    Cloud+ 
+    ITILv4 
+    A+ 
+    Python 
+    AWS Certified Cloud Practitioner 
+    Network+ 
+    Project+ 
+    Microsoft Azure Fundamentals 
+    Splunk
+    Phishing email analysis 
+    ELK stack 
+    Linux CLI 
+    Windows CLI 
+    Qualys 
+
+ 
+
+EDUCATION		
+Western Governors University – Millcreek, UT 
+
+Bachelor of Science in Cloud Computing, June 2023 
+Code your own path Scholarship 
+
+ 
+	
+University of Wisconsin - Milwaukee – Milwaukee, WI  
+Associate of Arts and Science, 2021  
+Suma Cum Laude 
